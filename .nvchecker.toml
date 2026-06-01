@@ -1,0 +1,4 @@
+[calamares]
+source = "git"
+git = "https://codeberg.org/Calamares/calamares.git"
+prefix = "v"
